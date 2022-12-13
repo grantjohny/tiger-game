@@ -2,7 +2,9 @@
 A simple game where the user takes turns with the computer playing cards
 
 How to run:
+
 make
+
 ./tiger-game.out
 
 How to play:
